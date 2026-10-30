@@ -1,6 +1,7 @@
 # Website-Nasi-Cumi-Hitam
 
 Nama Project : Website Nasi Cumi Hitam
+
 Deskripsi : Website Warung Makan dengan style Modern
 
 Nama Anggota Kelompok :
@@ -11,6 +12,7 @@ Nama Anggota Kelompok :
 
 
 Tujuan
+
 membuat website warung makan untuk menambah waktu respon terhadap pelanggan dan meningkatkan kualitas pelayanan terhadap pelanggan, website ini juga ditujukan untuk memudahkan pelanggan dalam meelihat menu apa saja yang di jual, selain itu pelanggan juga dapat melihat promo apa yang sedang berlangsung dan promo apa yang akan muncul nantinya. Jadi website ini diharapkan untuk memudahkan pelanggan serta memberikan suatu  portofolio bagi penjual
 
 
