@@ -13,11 +13,12 @@ Nama Anggota Kelompok :
 
 Tujuan
 
-membuat website warung makan untuk menambah waktu respon terhadap pelanggan dan meningkatkan kualitas pelayanan terhadap pelanggan, website ini juga ditujukan untuk memudahkan pelanggan dalam meelihat menu apa saja yang di jual, selain itu pelanggan juga dapat melihat promo apa yang sedang berlangsung dan promo apa yang akan muncul nantinya. Jadi website ini diharapkan untuk memudahkan pelanggan serta memberikan suatu  portofolio bagi penjual
+membuat website warung makan untuk menambah waktu respon terhadap pelanggan dan meningkatkan kualitas pelayanan terhadap pelanggan, website ini juga ditujukan untuk memudahkan pelanggan dalam meelihat menu apa saja yang di jual, selain itu pelanggan juga dapat melihat promo apa yang sedang berlangsung dan promo apa yang akan muncul nantinya. Jadi website ini diharapkan untuk memudahkan pelanggan serta memberikan suatu  portofolio bagi penjual.
 
 
 Fitur 
 
+Fitur dari website yang kami buat aada beberapa, termasuk adanya penggunaan tombol navigasi yang bisa digunakan untuk membagi setiap halaman sehingga semua informasi tidak menumpuk dalam satu halaman, hal ini dapat memudahkan pengguna dalam menggunakan website tersebut.
 
 
 Teknologi yang digunakkan
