@@ -28,9 +28,12 @@ teknologi yang kami gunakan berupa bahasa markup yaitu html bersamaan dengan css
 
 d. Cara menjalankan website secara lokal
 
+untuk menjalankan secara lokal bisa menggunakan git clone atau bisa di bilang clone repository ini, lalu didalam file clone bisa klik dua kali pada file index.html
+
 
 
 e. Ringkasan pembagian tugas dan kontribusi anggota
+
 1. Setup Repository dilakukan oleh Alif
 2. Struktur dasar HTML/CSS dibuat oleh Baskara
 3. Pembuatan Halaman Home dilakukan oleh Baskara
