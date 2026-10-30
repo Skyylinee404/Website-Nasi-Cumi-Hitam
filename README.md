@@ -11,25 +11,26 @@ Nama Anggota Kelompok :
 4. Raviz Satria Perdana ()
 
 
-Tujuan
+a. Tujuan
 
 membuat website warung makan untuk menambah waktu respon terhadap pelanggan dan meningkatkan kualitas pelayanan terhadap pelanggan, website ini juga ditujukan untuk memudahkan pelanggan dalam meelihat menu apa saja yang di jual, selain itu pelanggan juga dapat melihat promo apa yang sedang berlangsung dan promo apa yang akan muncul nantinya. Jadi website ini diharapkan untuk memudahkan pelanggan serta memberikan suatu  portofolio bagi penjual.
 
 
-Fitur 
+b. Fitur 
 
 Fitur dari website yang kami buat aada beberapa, termasuk adanya penggunaan tombol navigasi yang bisa digunakan untuk membagi setiap halaman sehingga semua informasi tidak menumpuk dalam satu halaman, hal ini dapat memudahkan pengguna dalam menggunakan website tersebut.
 
 
-Teknologi yang digunakkan
+c. Teknologi yang digunakkan
+
+teknologi yang kami gunakan berupa bahasa markup yaitu html bersamaan dengan css
+
+
+d. Cara menjalankan website secara lokal
 
 
 
-Cara menjalankan website secara lokal
-
-
-
-Ringkasan pembagian tugas dan kontribusi anggota
+e. Ringkasan pembagian tugas dan kontribusi anggota
 1. Setup Repository dilakukan oleh Alif
 2. Struktur dasar HTML/CSS dibuat oleh Baskara
 3. Pembuatan Halaman Home dilakukan oleh Baskara
